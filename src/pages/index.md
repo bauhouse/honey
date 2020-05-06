@@ -5,7 +5,7 @@ sidebar:
   - title: Welcome
     url: "#intro"
     is_primary: true
-  - title: Who we are
+  - title: For Employers
     url: "#one"
     is_primary: false
   - title: What we do
