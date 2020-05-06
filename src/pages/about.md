@@ -1,5 +1,5 @@
 ---
-title: Humanizing Human Resources
+title: About Us
 content_img_path: "/images/honeybees-adobestock-272656231-1920x1280.jpg"
 menus:
   main:
@@ -18,7 +18,7 @@ home_spotlights:
     url: ''
 
 ---
-# Humanizing Human Resources
+## Humanizing Human Resources
 
 HoneyBee Workforce is humanizing human resources by building resilience into a community through mentorship, support, training, and a business model that relieves the daily economic pressures of employees.
 
