@@ -1,5 +1,5 @@
 ---
-title: A Generic Page
+title: Humanizing Human Resources
 content_img_path: "/images/honeybees-adobestock-272656231-1920x1280.jpg"
 menus:
   main:
