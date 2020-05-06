@@ -2,13 +2,13 @@
 title: Home
 sidebar:
   entries:
-  - title: Welcome
+  - title: Humanizing HR
     url: "#intro"
     is_primary: true
   - title: For Employers
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: For Employees
     url: "#two"
     is_primary: false
   - title: Get in touch
