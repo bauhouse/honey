@@ -3,6 +3,6 @@ landing_style: alt
 alt_style: alt
 copyright: Copyright &copy; 2020 HoneyBee Workforce. All rights reserved.
 links:
-- text: Made with Stackbit
-  url: https://www.stackbit.com
+- text: Learn more at our blog
+  url: https://honeybeeworkforce.com
   new_window: true
