@@ -42,7 +42,7 @@ sections:
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
     bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
   section_id: two
-  background_style: style2
+  background_style: style1
   features_list:
   - title: Lorem ipsum amet
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
