@@ -85,9 +85,9 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
+      32525 Simon Ave Suite 100
+      Abbotsford, BC V2T 6T6
+      Canada
     url: ''
   - title: Email
     text: user@Hyperspace.tld
