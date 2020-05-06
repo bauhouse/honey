@@ -77,9 +77,9 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: Find out how we can help. Discover how working with a creative, supportive
+    team can increase engagement, productivity, and profitability. HoneyBee Workforce
+    will transform the way you think about work.
   section_id: three
   background_style: style4
   contact_list:
