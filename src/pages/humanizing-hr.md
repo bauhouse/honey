@@ -3,7 +3,7 @@ title: Humanizing Human Resources
 content_img_path: "/images/photo-1531206715517-5c0ba140b2b8.jpeg"
 home_spotlights:
   enabled: true
-  weight: 3
+  weight: 1
   excerpt: HoneyBee Workforce is humanizing human resources by building resilience
     into a community through mentorship, support, training, and a business model that
     relieves the daily economic pressures of employees.
