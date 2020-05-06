@@ -3,7 +3,7 @@ title: A Strong Work Culture
 content_img_path: "/images/photo-1547447175-a68d11e30d6b.jpeg"
 home_spotlights:
   enabled: true
-  weight: 1
+  weight: 3
   excerpt: Instead of treating staff as commodities, we create a culture of caring
     by building a community of supportive relationships, based on collaboration and
     shared experiences.
