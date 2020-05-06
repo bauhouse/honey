@@ -37,12 +37,13 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: For Employees
+  subtitle: When we realize that we are all in this together, we can finally begin
+    to achieve our individual goals by seeing them as part of the core value of building
+    a strong community. We find meaning, purpose, and belonging by helping each other
+    succeed.
   section_id: two
-  background_style: style1
+  background_style: style3
   features_list:
   - title: Lorem ipsum amet
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
