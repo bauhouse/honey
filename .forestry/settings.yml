@@ -21,7 +21,7 @@ sections:
   - home
 - type: directory
   path: src/pages
-  label: page
+  label: Pages
   create: all
   match: "**/*"
   exclude: "{index.md,elements.md}"
