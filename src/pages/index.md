@@ -49,34 +49,34 @@ sections:
     text: We save time (and time is money). Human resource officers focus on building
       the culture and nurture the current staff rather than losing sleep to recruit
       and deal with issues due to labor shortage.
-    icon: fa-stopwatch
+    icon: fa-hourglass-half
   - title: Punctuality
     text: HoneyBee Workforce team shows up 10 minutes prior to the shift start. We
       coach our team towards benefits of being 10 minutes early at their shift.
-    icon: fa-clock
+    icon: fa-clock-o
   - title: Absenteeism and Employee Replacement
     text: Our goal is to keep absenteeism as low as possible. We provide extra coverage
       for flu season. We cover for long term sickness / Maternity / paternity leave
       / injury leave or back to school time intervals.
-    icon: fa-cog
+    icon: fa-id-card-o
   - title: Basic Training and On-boarding
     text: We always give our superstars a briefing on what your company is, what are
       your Values and Culture. This helps them align with you, much faster.
-    icon: fa-clipboard-list
+    icon: fa-clipboard
   - title: Safety Protocol and Monitoring
     text: We do our own investigations to any Incidents/Accidents or near misses.
       We monitor safety protocols as a priority and those gets discussed at every
       general meeting. We maintain our own safety records.
-    icon: fa-hard-hat
+    icon: fa-life-buoy
   - title: Response Time and Methods
     text: Our driver is our team lead and is fully trained to handle any kind of emergencies.
       He is also coach for the team and he does daily briefing to the team before
       dropping off at work.
-    icon: fa-shuttle-van
+    icon: fa-tachometer
   - title: Employee Appreciation and Support Program
     text: We focus on developing hard working employees even further using appreciation.
       We help and support our employee by getting the credentials approved.
-    icon: fa-medal
+    icon: fa-trophy
   - title: Sustainable Eco-Friendly Business Model
     text: We help reduce carbon foot print, traffic congestion, pollution, and health
       issues. We have noticed the physiological impact of ride sharing.
