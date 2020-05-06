@@ -58,6 +58,6 @@ fields:
     required: true
 pages:
 - src/pages/culture.md
-- src/pages/generic.md
+- src/pages/hr.md
 - src/pages/humanizing-hr.md
 - src/pages/resilient.md
