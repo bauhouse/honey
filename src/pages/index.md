@@ -83,7 +83,7 @@ sections:
     icon: fa-leaf
   actions:
   - label: Learn more
-    url: "/generic"
+    url: "/about"
     is_scrolly: false
     is_primary: false
   component: Features
