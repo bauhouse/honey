@@ -1,18 +1,27 @@
 ---
-title: Ultricies aliquam
-content_img_path: images/pic04.jpg
+title: Humanizing Human Resources
+content_img_path: "/images/photo-1531206715517-5c0ba140b2b8.jpeg"
 home_spotlights:
   enabled: true
   weight: 3
-  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: HoneyBee Workforce is humanizing human resources by building resilience
+    into a community through mentorship, support, training, and a business model that
+    relieves the daily economic pressures of employees.
   home_img:
-    path: images/pic03.jpg
-    data_position: 25% 25%
+    path: "/images/photo-1531206715517-5c0ba140b2b8.jpeg"
+    data_position: center center
     url: "#"
 template: page
 
 ---
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+## Flexibility
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+- **We are the top execution tool for Human Resource Officer:** We save time (and time is money). Human resource officers focus on building the culture and nurture the current staff rather than losing sleep to recruit and deal with issues due to labor shortage.
+- We are just a phone call away. You let us know who you need and when do you need, and let the triangle magic work.
+- We can provide extra coverage in Peak Seasons
+- **Strong Network:** Currently 227 personal in the field and database of 1700 potential candidates
+
+## Punctuality
+
+- **10 minute rule:** HoneyBee Workforce team shows up 10 minutes prior to the shift start.
+- We coach our team towards benefits of being 10 minutes early at their shift.
