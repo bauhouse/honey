@@ -45,10 +45,11 @@ sections:
   section_id: two
   background_style: style3
   features_list:
-  - title: Lorem ipsum amet
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-code
+  - title: Flexibility
+    text: We save time (and time is money). Human resource officers focus on building
+      the culture and nurture the current staff rather than losing sleep to recruit
+      and deal with issues due to labor shortage.
+    icon: fa-stopwatch
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
